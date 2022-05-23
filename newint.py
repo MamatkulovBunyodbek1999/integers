@@ -1,1 +1,1 @@
-print("Qaleslar")
+print("Qaleslaree")
